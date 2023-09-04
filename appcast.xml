@@ -7,7 +7,7 @@
         <language>en</language>
         <item>
             <title>Version 1.1 (Testing)</title>
-            <pubDate>Thu, 31 Aug 2023 11:23:19 +08:00</pubDate>
+            <pubDate>Thu, 31 Aug 2023 11:23:19</pubDate>
             <enclosure url="https://github.com/InstaRentDummy/UGUpdate/blob/834a795d584e1df27144af92da5642e6104babef/ModbusWorker1.1.zip"
                        sparkle:version="1.1"
                        sparkle:os="windows"
