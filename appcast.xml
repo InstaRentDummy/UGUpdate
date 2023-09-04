@@ -1,13 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Application</title>
-        <description>Most recent changes with links to updates</description>
+        <title>NetSparkle Test App</title>
+        <link>https://github.com/InstaRentDummy/UGUpdate/blob/834a795d584e1df27144af92da5642e6104babef/appcast.xml</link>
+        <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Application 1.1</title>
+            <title>Version 1.1 (Testing)</title>
             <pubDate>Thu, 31 Aug 2023 11:23:19 +08:00</pubDate>
-            <enclosure url="http://localhost/UGUpdate/modbus/ModbusWorker1.1.zip" sparkle:version="1.1" sparkle:shortVersionString="1" length="19188704" sparkle:os="windows" type="application/zip" />
+            <enclosure url="https://github.com/InstaRentDummy/UGUpdate/blob/834a795d584e1df27144af92da5642e6104babef/ModbusWorker1.1.zip"
+                       sparkle:version="1.1"
+                       sparkle:os="windows"
+                       length="19188704"
+                       type="application/octet-stream"
+                       />
         </item>
     </channel>
 </rss>
